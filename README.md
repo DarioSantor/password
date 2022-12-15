@@ -1,2 +1,2 @@
-# password
+# passwordVerifier
 Small Swift project
